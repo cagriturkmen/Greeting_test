@@ -7,6 +7,7 @@ public class Greeting {
 		// Yeni komutlar
 		// aasda
 		// Asa
+		// adasfd
 	}
 	
 }
